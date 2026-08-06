@@ -117,7 +117,7 @@ export default function LoginPage() {
 
             {/* Header */}
             <div className="mb-8">
-              <h2 className="mb-3 text-[28px] font-bold leading-tight text-gray-900">
+              <h2 className="mb-3 text-[29px] font-extrabold leading-tight text-gray-900">
                 Log in to your account
               </h2>
               <p className="text-sm leading-relaxed text-gray-500">
